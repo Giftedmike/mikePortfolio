@@ -1,0 +1,18 @@
+#body {
+  background-image: url('https://images.pexels.com/photos/13922575/pexels-photo-13922575.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  margin-top: 30px;
+}
+
+#linkedin {
+  font-weight: bolder;
+}
+
+#git {
+  font-weight: bolder;
+}
+
+
+
