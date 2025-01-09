@@ -5,7 +5,8 @@ const App = () => {
     <>
       <div className='container text-center'>
         <div className="row py-5 border-solid">
-          <div className="col pb-4">
+          <div className="col pb-1">
+            <h2 className='text-light'>Mike's Portfolio <br /> Software Engineer</h2>
             <img src="https://media.licdn.com/dms/image/v2/C5622AQEuZSwWcbn4Xw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1597068097698?e=2147483647&v=beta&t=-DDMrmlKavklNQ1pCK8WpduyaDh0Dv-XBbaTbhUNbiA" alt="" />
           </div>
           <div className="col">
@@ -33,7 +34,7 @@ const App = () => {
         </div>
       </div>
 
-      <h1 className='text-center text-light pb-5'>Mike's Portfolio</h1>
+      <h1 className='text-center text-light pb-5'>Work Experience</h1>
       <div className="container text-center ps-5">
         <div className="row">
           <div className="col-md-4 pb-3">
