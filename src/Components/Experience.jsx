@@ -8,7 +8,7 @@ const Experience = () => {
           <h1 className="text-center text-light pb-2">Work Experience</h1>
           <div className="col-md-4 pb-3">
             <div className="card" style={{ width: "18rem" }}>
-              <img src="fidelity.jpg" className="card-img-top" alt="..." />
+              <img src="/fidelity.jpg" className="card-img-top" alt="..." />
               <div className="card-body">
                 <h5 className="card-title">
                   I.T Support <br /> Staff - Volunteering{" "}
@@ -18,7 +18,7 @@ const Experience = () => {
           </div>
           <div className="col-md-4 pb-3">
             <div className="card" style={{ width: "18rem" }}>
-              <img src="sqi.jpeg" className="card-img-top" alt="..." />
+              <img src="/sqi.jpeg" className="card-img-top" alt="..." />
               <div className="card-body">
                 <h5 className="card-title">
                   Software Engineer Student Internship
@@ -28,7 +28,7 @@ const Experience = () => {
           </div>
           <div className="col-md-4 pb-3">
             <div className="card" style={{ width: "18rem" }}>
-              <img src="uog.jpg" className="card-img-top" alt="..." />
+              <img src="/uog.jpg" className="card-img-top" alt="..." />
               <div className="card-body">
                 <h5 className="card-title">Junior Database Programmer</h5>
               </div>

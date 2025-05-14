@@ -30,15 +30,15 @@ const Banner = () => {
             </div>
             <div className="row py-5">
               <div className="col-md-6 pb-1">
-                <a href="https://www.linkedin.com/in/michael-patrick-54ab80231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPuU%2BRjCsROmjAuBgCH9axQ%3D%3D" target="_blank">
+                <a href="/Banner.gif" target="_blank">
                 <button className="btn btn-warning p-1">
-                  <img src="Linkedin.png" alt="" />
+                  <img src="/LinkedIn.png" alt="" />
                 </button></a>
               </div>
               <div className="col-md-6 pb-1">
                 <a href="https://github.com/Giftedmike?tab=repositories" target="_blank">
                 <button className="btn btn-primary p-1">
-                  <img src="github-icon-7.png" alt="" />
+                  <img src="/github-icon-7.png" alt="" />
                 </button></a>
               </div>
             </div>
