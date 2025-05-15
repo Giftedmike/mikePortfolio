@@ -3,7 +3,7 @@ import React from "react";
 const Banner = () => {
   return (
     <>
-      <div className="container text-center">
+      <div className="container text-center" id="home">
         <div className="row py-1 border-solid">
           <div className="col pb-1">
             <h2 className="text-light">
@@ -30,7 +30,7 @@ const Banner = () => {
             </div>
             <div className="row py-5">
               <div className="col-md-6 pb-1">
-                <a href="/Banner.gif" target="_blank">
+                <a href="https://www.linkedin.com/in/michael-patrick-54ab80231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7hu5xPGbRcKdC4yiLSChig%3D%3D" target="_blank">
                 <button className="btn btn-warning p-1">
                   <img src="/LinkedIn.png" alt="" />
                 </button></a>
